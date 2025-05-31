@@ -2,7 +2,7 @@ package com.ZohoQns;
 //Write a program to print the binary, octal, hexadecimal value of an integer
 public class QnNo1 {
     public static void main(String[] args) {
-        int num = 1001;
+        int num = 108;
         System.out.println(binary(num));
         System.out.println(octal(num));
         System.out.println(hexaDecimal(num));
