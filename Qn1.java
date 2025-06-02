@@ -1,6 +1,6 @@
 package com.ZohoQns;
 //Write a program to print the binary, octal, hexadecimal value of an integer
-public class QnNo1 {
+public class Qn1 {
     public static void main(String[] args) {
         int num = 108;
         System.out.println(binary(num));
